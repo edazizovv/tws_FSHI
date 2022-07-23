@@ -1,0 +1,5 @@
+https://www.simonlindgren.com/notes/2017/11/7/scrape-tweets-without-using-the-api
+
+https://github.com/jonbakerfish/TweetScraper
+
+scrapy crawl TweetScraper -a query="foo OR #bar since:2017-01-01 until:2017-01-02"

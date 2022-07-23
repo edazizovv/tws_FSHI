@@ -1,0 +1,4 @@
+scrapy crawl TweetScraper -a query="from:elonmusk since:2022-04-08 until:2022-04-10"
+
+
+C:\Users\Edward\Documents\geckodriver\geckodriver.exe
